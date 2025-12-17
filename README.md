@@ -19,7 +19,7 @@ The actual research samples, including:
 If you need access to the research samples data, please contact the repository owner to request access to the private repository.
 
 To request access:
-1. Contact the repository maintainer (see the repository owner information on GitHub)
+1. Contact the repository maintainer through GitHub (you can find the owner information in the repository sidebar or at the top of this page)
 2. Provide details about your research needs and intended use
 3. You will be granted access to the private repository upon approval
 
